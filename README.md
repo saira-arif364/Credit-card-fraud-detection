@@ -36,7 +36,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/credit-card-fraud-detection.git
+https://github.com/saira-arif364/Credit-card-fraud-detection.git
 Install Dependencies:
 
 Copy code
